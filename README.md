@@ -7,9 +7,13 @@ This project is a frontend-only website for a fast food restaurant. The site is 
 Features
 
 Home Page: Welcoming page with an introduction to the restaurant and highlights of current promotions.
+
 Menu Page: Detailed menu with categories such as burgers, sides, drinks, and desserts.
+
 Promotions Page: Display of current deals and special offers.
+
 Contact Page: Form for customers to reach out with inquiries or feedback.
+
 Responsive Design: Optimized for desktop, tablet, and mobile devices.
 
 Technologies Used
