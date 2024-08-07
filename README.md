@@ -1,10 +1,10 @@
-Fast Food Frontend Website
+**#Fast Food Frontend Website**
 
-Overview
+###Overview
 
 This project is a frontend-only website for a fast food restaurant. The site is designed to be visually appealing, user-friendly, and responsive across various devices.
 
-Features
+###Features
 
 Home Page: Welcoming page with an introduction to the restaurant and highlights of current promotions.
 
@@ -16,7 +16,7 @@ Contact Page: Form for customers to reach out with inquiries or feedback.
 
 Responsive Design: Optimized for desktop, tablet, and mobile devices.
 
-Technologies Used
+###Technologies Used
 
 HTML5: For the structure of the website.
 
